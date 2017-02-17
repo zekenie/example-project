@@ -1,4 +1,3 @@
-
 function add() {
   return Array.from(arguments)
     .reduce((total, current) => total + current, 0);
